@@ -134,7 +134,7 @@ ListView {
                 height: width
                 smooth: true
                 fillMode: Image.PreserveAspectCrop
-                source: gameData ? gameData.assets.screenshots[0] || "" : ""
+                source: gameData.assets.background
                 asynchronous: true
                 sourceSize { width: 512; height: 512 }
             }
