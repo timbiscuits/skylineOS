@@ -210,7 +210,7 @@ FocusScope
 
             anchors {
                 left: parent.left; leftMargin: vpx(63)
-                top: topBar.bottom;
+                top: topBar.bottom
                 right: parent.right; rightMargin: vpx(63)
                 bottom: parent.bottom
             }
