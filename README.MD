@@ -1,7 +1,5 @@
 # skylineOS v0.6
 
-A fork working to make small enhancements to skylineOS
-
 ![skylineOS Pegasus theme](assets/images/screenshot_bar_start.png)
 
 ![skylineOS Pegasus theme](assets/images/screenshot_bar_end.png)
