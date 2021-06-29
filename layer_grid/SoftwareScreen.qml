@@ -247,7 +247,7 @@ FocusScope
                         
                         asynchronous: true
                         //smooth: true
-                        source: modelData.assets.screenshots[0] ? modelData.assets.screenshots[0] : ""
+                        source: modelData.assets.background
                         sourceSize { width: 256; height: 256 }
                         fillMode: Image.PreserveAspectCrop
                         
